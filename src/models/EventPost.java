@@ -7,6 +7,7 @@ public class EventPost extends Post {
     private String eventName = "";
     private double eventCost = 0;
 
+
     //This is a test for the first commit
     public EventPost (String author, String eventName, double eventCost){
         super(author);
