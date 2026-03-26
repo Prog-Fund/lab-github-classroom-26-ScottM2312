@@ -13,8 +13,8 @@ class MessagePostTest {
 
     @BeforeEach
     void setUp() {
-       messagePost1 = new MessagePost("Mary", "Hi there.");
-       messagePost2 = new MessagePost("John", "I'm on my way.");
+        messagePost1 = new MessagePost("Mary", "Hi there.");
+        messagePost2 = new MessagePost("John", "I'm on my way.");
     }
 
     @AfterEach
